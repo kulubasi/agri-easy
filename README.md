@@ -1,2 +1,2 @@
 # agri-easy
-Easing agricultural processes
+Easing agricultural activities
